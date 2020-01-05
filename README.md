@@ -7,6 +7,7 @@ Dataset - IRIS
 # Steps to use
 Make sure docker is already installed in your systems.If not click [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/)!!
 
+To be run in the terminal:
 ```
 git clone https://github.com/icapucap/ml-docker-devops.git
 cd ml-docker-devops/
