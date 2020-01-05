@@ -1,6 +1,6 @@
 # ml-docker-devops
 
-Learning to expose machine learning service as an API and to build a production grade docker application using flask and flassger.
+Learning to expose machine learning service as an API and to build a production grade docker application using flask and flassger(for the UI).
 <br><br>
 Dataset - IRIS
 <br><br>
