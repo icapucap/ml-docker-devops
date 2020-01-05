@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+flask
+flasgger==0.8.1
+mod_wsgi
